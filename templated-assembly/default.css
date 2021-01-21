@@ -159,7 +159,7 @@
 		color: #FFFFFF;
 	}
 	
-	ul.contact li a.icon-twitter:before { background: #2DAAE4; }
+	ul.contact li a.icon-twitter:before { background: #6081a0; }
 	ul.contact li a.icon-facebook:before { background: #39599F; }
 	ul.contact li a.icon-dribbble:before { background: #C4376B;	}
 	ul.contact li a.icon-tumblr:before { background: #31516A; }
@@ -176,7 +176,7 @@
 		letter-spacing: 0.10em;
 		margin-top: 2em;
 		padding: 1.40em 3em;
-		background: #44073c;
+		background: #69065c;
 		border-radius: 6px;
 		text-decoration: none;
 		font-weight: 700;
@@ -371,7 +371,7 @@
 	
 	#menu .active a
 	{
-		background: #2651a8;
+		background: #371b52;
 		border-radius: 6px;
 		color: rgba(255,255,255,1);
 	}
@@ -455,7 +455,7 @@
 	{
 		overflow: hidden;
 		padding: 5em 0em;
-		border-top: 1px solid rgba(0,0,0,0.08);
+		border-top: 1px solid rgba(20, 19, 19, 0.08);
 	}
 	
 	#copyright p
